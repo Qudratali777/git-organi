@@ -1,2 +1,0 @@
-# git-organi-
-git organish
